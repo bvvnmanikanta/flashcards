@@ -14,6 +14,4 @@ To set this in your local:
   - run `cd flash-cards`
   - run `npm start`
 
-For compiled repo [click here](https://github.com/bvvnmanikanta/flashcards/tree/gh-pages)
-
 See the deployed website [here](https://bvvnmanikanta.github.io/flashcards)
